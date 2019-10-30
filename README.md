@@ -10,3 +10,4 @@
 * [Blog with comments using Semantic IO](https://github.com/YairFernando67/Blog)
 * [Blog with comments using Bulma](https://github.com/YairFernando67/Blog_Comments)
 * [MessageMe APP](https://github.com/YairFernando67/messageApp)
+* [New York Times Article](https://github.com/queeksm/NYT_article)
