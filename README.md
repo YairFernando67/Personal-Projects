@@ -16,3 +16,7 @@
 * [Github Clone](https://github.com/YairFernando67/GIthub_Clone)
 * [Modern Portflio](https://github.com/YairFernando67/Modern_Portfolio)
 * [Portfolio](https://github.com/YairFernando67/Portfolio)
+* [Enumerables](https://github.com/YairFernando67/Enumerables)
+* [Components](https://github.com/YairFernando67/components)
+* [Pics](https://github.com/YairFernando67/Pics)
+
