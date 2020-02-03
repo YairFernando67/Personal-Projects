@@ -19,4 +19,10 @@
 * [Enumerables](https://github.com/YairFernando67/Enumerables)
 * [Components](https://github.com/YairFernando67/components)
 * [Pics](https://github.com/YairFernando67/Pics)
-
+* [Sample App](https://github.com/YairFernando67/sample_app)
+* [StarWars App](https://github.com/YairFernando67/React-APIStarWars)
+* [RemoteWorkScraper](https://github.com/YairFernando67/RemoteWorkScraper)
+* [React and Redux API](https://github.com/YairFernando67/redux-api)
+* [Tasks App](https://github.com/YairFernando67/tasks-app)
+* [Twitch Clone](https://github.com/YairFernando67/client)
+* [Course App](https://github.com/YairFernando67/course-app)
