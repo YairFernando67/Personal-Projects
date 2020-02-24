@@ -26,3 +26,6 @@
 * [Tasks App](https://github.com/YairFernando67/tasks-app)
 * [Twitch Clone](https://github.com/YairFernando67/client)
 * [Course App](https://github.com/YairFernando67/course-app)
+* [Daycare API](https://github.com/YairFernando67/taker_api)
+* [Daycare Admin Application](https://github.com/YairFernando67/taker_admin_app)
+* [Baby Milestones](https://github.com/YairFernando67/baby_milestone_app)
